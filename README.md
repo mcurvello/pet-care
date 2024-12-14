@@ -59,3 +59,9 @@ Acesse o aplicativo no navegador em http://localhost:3000.
 
 ---
 
+Link do Figma:
+
+https://www.figma.com/design/RjGkG9G9JVSRk9oWcLdfeo/PetCare?node-id=2-34&t=sUse7edcwlwkPneS-1
+
+
+
