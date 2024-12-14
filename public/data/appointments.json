@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "ownerName": "João Silva",
+    "petName": "Rex",
+    "date": "2024-12-15",
+    "time": "10:00",
+    "status": "Confirmado"
+  },
+  {
+    "id": 2,
+    "ownerName": "Maria Oliveira",
+    "petName": "Luna",
+    "date": "2024-12-16",
+    "time": "14:00",
+    "status": "Pendente"
+  },
+  {
+    "id": 3,
+    "ownerName": "Carlos Souza",
+    "petName": "Thor",
+    "date": "2024-12-17",
+    "time": "16:00",
+    "status": "Cancelado"
+  }
+]

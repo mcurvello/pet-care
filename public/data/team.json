@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. João Silva",
+    "role": "Veterinário Clínico Geral",
+    "description": "Especialista em cuidados gerais e consultas de rotina para pets de todas as idades.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "name": "Dra. Maria Oliveira",
+    "role": "Especialista em Comportamento Animal",
+    "description": "Focada em entender e melhorar o comportamento dos pets com técnicas modernas.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Pedro Santos",
+    "role": "Cirurgião Veterinário",
+    "description": "Especialista em cirurgias complexas e tratamento de emergências.",
+    "image": "https://via.placeholder.com/150"
+  }
+]
