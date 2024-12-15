@@ -59,9 +59,14 @@ Acesse o aplicativo no navegador em http://localhost:3000.
 
 ---
 
-Link do Figma:
+## 🎨 Design e Protótipo no Figma
 
-https://www.figma.com/design/RjGkG9G9JVSRk9oWcLdfeo/PetCare?node-id=2-34&t=sUse7edcwlwkPneS-1
+- **Design do Projeto**:  
+  [Visualizar o Design no Figma](https://www.figma.com/design/RjGkG9G9JVSRk9oWcLdfeo/PetCare?node-id=2-34&t=sUse7edcwlwkPneS-1)
+
+- **Protótipo Interativo**:  
+  [Acessar o Protótipo no Figma](https://www.figma.com/proto/RjGkG9G9JVSRk9oWcLdfeo/PetCare?scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=2-157&starting-point-node-id=2%3A157)
+
 
 
 
